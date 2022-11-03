@@ -1,0 +1,24 @@
+{
+    "message":{
+        "african":[
+
+        ],
+        "akita":[
+
+        ],
+        "australian":[
+            "shepherd"
+        ],
+        "bulldog":[
+            "boston",
+            "english",
+            "french"
+        ],
+        "mastiff":[
+            "bull",
+            "english",
+            "tibetan"
+        ]
+    },
+    "status":"success"
+}
